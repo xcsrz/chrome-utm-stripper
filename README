@@ -7,4 +7,4 @@ http://www.google.com/support/analytics/bin/answer.py?answer=55578
 Urchin logo by Jordan Irwin / Deluge
 http://www.openclipart.org/detail/69997
 
-NOTE: This fork of this extension strips the tokens before the request is made.  This mostly likely violates terms for Google so I am not submitting this to the marketplace.
+NOTE: This fork of this extension strips the tokens before the request is made.  This mostly likely violates terms for Google so I am not submitting this to the marketplace.  If you're not looking to block the tracking behavior, just install the original extension from https://chrome.google.com/webstore/detail/kcpnkledgcbobhkgimpbmejgockkplob
