@@ -6,3 +6,5 @@ http://www.google.com/support/analytics/bin/answer.py?answer=55578
 
 Urchin logo by Jordan Irwin / Deluge
 http://www.openclipart.org/detail/69997
+
+NOTE: This fork of this extension strips the tokens before the request is made.  This mostly likely violates terms for Google so I am not submitting this to the marketplace.
