@@ -3,7 +3,7 @@
 	"version": "1.6",
 	"manifest_version": 2,
 	"description": "Removes Google Analytics (UTM) tracking tokens from URL query strings.",
-    "homepage_url": "https://github.com/jparise/chrome-utm-stripper",
+    	"homepage_url": "https://github.com/xcsrz/chrome-utm-stripper",
 	"icons" :{
 		"48" : "icon-48.png",
 		"128" : "icon-128.png"
@@ -12,6 +12,8 @@
 		"scripts": ["background.js"]
 	},
 	"permissions": [
+		"webRequest",
+		"webRequestBlocking",
 		"tabs"
 	],
     "offline_enabled": true
